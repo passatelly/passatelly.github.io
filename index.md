@@ -1,3 +1,3 @@
-![passatelly logo](assets/logo.png)
-
 # Blog entries
+
+![passatelly logo](assets/logo.png)
