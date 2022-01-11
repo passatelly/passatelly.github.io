@@ -1,10 +1,7 @@
-<img align="left" width="100" height="100" src="assets/logo.png">
-
-##   Blog entries
-
-
+## Blog entries
 
 ### 2022-01-11 | Entry 1 | Pilota
+
 Io nella vita scrivo software, e *basta*. Cioè, *basta* nel senso che non scrivo altro, non *basta* nel senso che non faccio altro nella vita se non
 scrivere software. Vado anche in bici tipo. Non spesso in realtà. Vado ogni tanto, non proprio come sport-sport. E comunque il software di solito si scrive in
 inglese, e quindi ogni volta mi chiedo che lingua da usare quando scrivo cose che non sono software. Ma tanto, come ho appena detto, non scrivo mai
