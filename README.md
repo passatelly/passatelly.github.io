@@ -1,4 +1,5 @@
 # passatelly.github.io
-Passatelly's personal blog
 
 ![passatelly logo](assets/logo.png)
+
+Uso questo repository per scrivere cose.
