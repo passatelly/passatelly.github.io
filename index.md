@@ -1,8 +1,8 @@
 <img align="left" width="100" height="100" src="assets/logo.png">
 
-## Blog entries
+##   Blog entries
 
-</br>
+
 
 ### 2022-01-11 | Entry 1 | Pilota
 Io nella vita scrivo software, e *basta*. Cioè, *basta* nel senso che non scrivo altro, non *basta* nel senso che non faccio altro nella vita se non
