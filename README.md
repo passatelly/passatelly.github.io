@@ -1,5 +1,5 @@
-# passatelly.github.io
+# [passatelly.github.io](https://passatelly.github.io/)
 
-![passatelly logo](assets/logo.png)
-
-Uso questo repository per scrivere cose.
+<p align="center">
+  <img width="200" height="200" src="assets/logo.png">
+</p>
