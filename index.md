@@ -49,7 +49,7 @@ e me la scordo. E niente adesso mi sono creato uno spazio per scrivere queste co
 
 <b>\[Oscar\]</b>: Sì sì. Corridoio arancione, lo vedo.
 
-<b>[\Segretariə\]</b>: Ecco, seconda porta blu a sinistra.
+<b>\[Segretariə\]</b>: Ecco, seconda porta blu a sinistra.
 
 <b>\[Oscar - con un cenno della mano\]</b>: Va bene, grazie. Arrivederci.
 
@@ -212,5 +212,5 @@ locandina del Jazz Festival. Sai quello a San Giacomo? Te la lascio, magari pass
 <b>\[Il foglietto arancione stropicciato\]</b>:
 
 <p align="center">
-  <img width="360" height="203" src="assets/entry2/locandina.png">
+  <img width="540" height="305" src="assets/entry2/locandina.png">
 </p>
