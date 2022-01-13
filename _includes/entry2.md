@@ -90,7 +90,7 @@
 <b>\[Silvano - ancora incredulo\]</b>: Sì? \
 <b>\[Oscar - porgendo velocemente un foglietto arancione stropicciato\]</b>: Silvano guarda scusa avevo la locandina del Jazz Festival. Sai quello a San Giacomo? Te la lascio, magari passi da quelle parti. \
 <b>\[Silvano - con lo sguardo fisso sul foglietto arancione\]</b>: Certo, volentieri. \
-<b>\[Il foglietto arancione stropicciato\]</b>: \
+<b>\[Il foglietto arancione stropicciato\]</b>:
 <p align="center">
   <img width="540" height="305" src="assets/entry2/locandina.png">
 </p>
