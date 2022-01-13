@@ -27,13 +27,10 @@ e me la scordo. E niente adesso mi sono creato uno spazio per scrivere queste co
 
 ### 2022-01-12 | Entry 2 | Il blocco emotivo
 
-<b>\[Segretariə\]</b>: Poletti?
-
-<b>\[Oscar\]</b>: "🎵 upside insainout... nanana vida locaaa 🎵"
-
-<b>\[Segretariə\]</b>: Oscar Poletti?
-
-<b>\[Oscar\]</b>: "🎵 push an push you out... nanana vida loccaa 🎵"
+<b>\[Segretariə\]</b>: Poletti? \
+<b>\[Oscar\]</b>: "🎵 upside insainout... nanana vida locaaa 🎵" \
+<b>\[Segretariə\]</b>: Oscar Poletti? \
+<b>\[Oscar\]</b>: "🎵 push an push you out... nanana vida loccaa 🎵" \
 
 <b>\[Signora Carla - con un colpetto sulla spalla\]</b>: Mi scusi sa?! Ma mi sa che ce l'hanno proprio con lei.
 
