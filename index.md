@@ -8,20 +8,17 @@ inglese, e quindi ogni volta mi chiedo che lingua da usare quando scrivo cose ch
 altro. Quindi il problema si pone poco. Va beh, quelle rare volte in cui lo faccio uso un mix di inglese/italiano, che comunque fila bene, nella mia testa. Ma neanche troppo.
 Tant'è che quando rileggo dopo un po', alla fine non piace più nemmeno a me. Ma ci provo lo stesso.
 
-**Perché Passatelly?**
-
+**Perché Passatelly?** \
 Il motivo principale è che tanto, diciamoci la verità. Qualsiasi cosa io avessi scelto, ad un certo punto me ne sarei pentito.
 E quindi alla fine, perchè pensarci troppo? Ho preso una cosa che A) mi piace e B) si realizza usando a sproposito uno strumento
 nato per un altro scopo (lo schiacciapatate). E ci ho messo una `y` alla fine. Che fa giovane. O almeno così dicono i miei trapper preferiti.
 
-**Perché quel logo?**
-
+**Perché quel logo?** \
 Fare i loghi costa. Estro, tempo e fatica (o denaro). Ed io rispetto tantissimo chi fa i loghi per mestiere. E quindi ho scelto di non usare
 uno di quei tool tipo: [https://crea-il-tuo-logo-gratis-in-fretta-oh-tranquillo-viene-benissimo.now](https://bit.ly/3tk8tn8).
-Non mi sbilancio ulteriormente.
+Non mi sbilancio ulteriormente. Il logo è [questo](assets/logo.png).
 
-**Cosa troverò qui?**
-
+**Cosa troverò qui?** \
 Ogni tanto mi vengono in mente cose che fanno mezzo ridere, almeno a me. Ed ogni volta penso *"aaah... me la dovrei segnare questa"*. Poi non lo faccio
 e me la scordo. E niente adesso mi sono creato uno spazio per scrivere queste cose. Vediamo se effettivamente ora che non ho più scuse lo farò realmente.
 
@@ -74,7 +71,7 @@ e me la scordo. E niente adesso mi sono creato uno spazio per scrivere queste co
 <b>\[Oscar\]</b>: Beh oddio, emarginato forse no, però ecco un po' messo in disparte sì ecco. \
 <b>\[Silvano\]</b>: Questo tuo gruppo, non vuole più fare *queste cose* con te? \
 <b>\[Oscar\]</b>: No, no. Continuiamo a vederci sempre tutti i giovedì sera. È che, diciamo, se prima mi sentivo proprio l'occhio di bue addosso. I riflettori puntati. Ecco ora molto meno. Mi sento in disparte. Tipo quei bambini che alla recita di Natale interpretano l'albero accanto alla capanna. Prima magari non ero Gesù bambino, ma l'asinello almeno sì ecco. \
-<b>\[Silvano\]</b>: Capisco. Beh, certamente l'accettazione di noi stessi passa prima di tutto attraverso gli occhi degli altri. È assolutamente normale cercare l'approvazione dei nostri *peer*. "E taaaac! Scatta la paroletta in inglese. Così, con nonchalance. Che fa stile. Che fa studiato. Che fa *quella-targa-sulla-porta-mica-la-mettono-a-tutti*. Eddai che 'sto boomer poi tanto boomer non è. E grazie mamma e papà che m'hanno pagato l'erasmus - ciclo V - a Reading". \
+<b>\[Silvano\]</b>: Capisco. Beh, certamente l'accettazione di noi stessi passa prima di tutto attraverso gli occhi degli altri. È assolutamente normale cercare l'approvazione dei nostri *peer*. "E taaaac! Scatta la paroletta in inglese. Così, con nonchalance. Che fa stile. Che fa studiato. Che fa *quella-targa-sulla-porta-mica-la-mettono-a-tutti*. Eddai che 'sto boomer poi tanto boomer non è. E grazie mamma e papà che m'hanno pagato l'Erasmus [una delle primissime edizioni NdR] a Reading". \
 <b>\[Silvano - visibilmente soddisfatto\]</b>: Oscar, parlami del tuo gruppo. Che tipo di gruppo è? "Oh io ancora non ho capito che cazzo fa questo. Vuoi vedere che è una di quelle zozzerie che fanno ora i ragazzini col cellulare?!" \
 <b>\[Oscar - che non si aspettava certo di essere frainteso\]</b>: In che senso scusa? È un *gruppo*! \
 <b>\[Silvano\]</b>: Un gruppo... di *lettura*? "Va beh, diamogli una chance. Così lui dice *lettura*, io dico *lettura*, entrambi abbiamo capito che è una metafora per chissà quale immonderia, e andiamo avanti." \
