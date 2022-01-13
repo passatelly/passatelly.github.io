@@ -92,5 +92,5 @@
 <b>\[Silvano - con lo sguardo fisso sul foglietto arancione\]</b>: Certo, volentieri. \
 <b>\[Il foglietto arancione stropicciato\]</b>:
 <p align="center">
-  <img width="540" height="305" src="assets/entry2/locandina.png">
+  <img width="540" height="305" src="../assets/entry2/locandina.png">
 </p>
