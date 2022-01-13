@@ -67,7 +67,7 @@ La domanda due invece mi stupisce di più. Penso che se la chiedi, allora hai l'
 <b>[Dott.ssa Piera Alessini - meditabonda]</b>: "Quella ragazza è incredibile. Posso dirle tutto e non si scompone mai. Ottimo lavoro Piera! Soft skills ne abbiamo?!?" \
 <b>[Lucia - asciugandosi le lacrime]</b>: 🚶🏽‍♀️ va bene dottoressa. Non accadrà più. Io strapperò meglio i cerotti, ma lei è MALATA!!
 
-E a chi danno il nome della scoperta medica? Ecco, appunto. Hai voglia a dire 'la meritocrazia nella scienza'.
+<small>E a chi danno il nome della scoperta medica? Ecco, appunto. Hai voglia a dire 'la meritocrazia nella scienza'.</small>
 
 **Alcune precisazioni che, a detta di tutti, potevo risparmiarmi** \
 
