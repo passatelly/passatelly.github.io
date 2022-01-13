@@ -77,5 +77,7 @@ E a chi danno il nome della scoperta medica? Ecco, appunto. Hai voglia a dire 'l
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2790_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"piaggeria","geo":"IT","time":"2004-01-01 2022-01-13"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=IT&q=piaggeria","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
 3. FOMO e HOMO sono a [distanza di Hamming](https://en.wikipedia.org/wiki/Hamming_distance) 1.
+4. Ah quasi dimenticavo. Non rispondo alla penultima domanda della pregiata collezione di cui sopra, ma l'ultima sì.
+"Ti capisco, caro avventore della rete. Anche io ho un calcolatore talmente datato che la [cara Apple](https://futurama.fandom.com/wiki/Carol_Miller) ha smesso di rilasciare aggiornamenti."
 
 Per oggi basta così.
