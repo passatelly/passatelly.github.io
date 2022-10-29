@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Passatelly&#39;s blog</title>
+    <link>https://passatelly.github.io/posts/</link>
+    <description>Recent content in Posts on Passatelly&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://passatelly.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Entry 3 | Precisamente</title>
+      <link>https://passatelly.github.io/entry-3-precisamente/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://passatelly.github.io/entry-3-precisamente/</guid>
+      <description>&lt;p&gt;Rileggendo il blog per correggere errorini (non che io ne abbia trovati), o cose così, ho pensato che un eventuale (per quanto improbabile) lettore, potrebbe essere stranito da alcune mie esternazioni, e quindi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcune precisazioni necessarie&lt;/strong&gt; &lt;br&gt;
+Nella entry 1 dicevo che scrivo sofware per lavoro. Tuttavia questo blog, diciamolo, fa abbastanza schifo. Allego screenshot di come lo si vede ora, che poi magari un giorno lo sistemo e &amp;lsquo;sta
+cosa sembra falsa modestia.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://passatelly.github.io/&#34;&gt;
+        &lt;p align=&#34;center&#34;&gt;
+            &lt;img style=&#34;max-width: 500;&#34; src=&#34;../assets/entry3/screenshot1.png&#34;&gt;
+        &lt;/p&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;p&gt;Ti chiederai quindi, o pio lettore, &amp;ldquo;ma da uno che scrive software per lavoro, ero autorizzato ad aspettarmi qualcosa di meglio?&amp;rdquo;. E la risposta è: sì, lo eri. La verità è che io di web non so quasi niente. Scrivo software, ma che fa cose diverse. Del web sto imparando or ora con te, in pratica. Parole che fino all&amp;rsquo;altro giorno non avevano troppo senso (tipo &lt;code&gt;bundle&lt;/code&gt; o &lt;code&gt;jekyll&lt;/code&gt;) stanno vagamente iniziando ad assumere significato. Allego screenshot della pagina tutorial che sto guardando proprio adesso, che poi magari un giorno imparo, poi ci incontriamo su Chatroulette (o un altra piattaforma di voi giovani) e mi fai una domanda trabocchetto tipo &lt;br&gt;
+&lt;b&gt;[&lt;code&gt;hackermann93&lt;/code&gt; - boh metti che sia il tuo nick]&lt;/b&gt;: &amp;ldquo;ehi Passatelly, quanto è lungo il tuo &lt;code&gt;Gemfile punto lock&lt;/code&gt;?&amp;rdquo; &lt;br&gt;
+ed io rispondo prontamente &lt;br&gt;
+&lt;b&gt;[passatelly - con la &lt;em&gt;p&lt;/em&gt; minuscola, per umiltà]&lt;/b&gt;: &amp;ldquo;non lo so caro &lt;code&gt;hackermann93&lt;/code&gt;, ma tanto è generato automaticamente!&amp;rdquo; &lt;br&gt;
+e giù di grasse HAHAHA 😬 &lt;br&gt;
+Ecco, metti che abbiamo proprio una conversazione così. Cosa penseresti di me? Mi daresti, a ragion veduta, del bugiardo. O del &lt;em&gt;mentiroso&lt;/em&gt;, come dice la mia band preferita: gli &lt;a href=&#34;../assets/entry3/aventura.jpeg&#34;&gt;Aventura&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Quindi, onde evitare problemi di questa natura. Ecco a te.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://jekyllrb.com/docs/includes/#including-files-relative-to-another-file&#34;&gt;
+        &lt;p align=&#34;center&#34;&gt;
+            &lt;img style=&#34;max-width: 500;&#34; src=&#34;../assets/entry3/screenshot2.png&#34;&gt;
+        &lt;/p&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;p&gt;Spero sia sufficiente a dimostrare la mia buona fede.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcune precisazioni che non definirei necessarie, ma tutto sommato andavano dette&lt;/strong&gt; &lt;br&gt;
+Mentre cercavo questa emoji (😬), Google mi ha suggerito le seguenti domande.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;https://emojipedia.org/grimacing-face/&#34;&gt;
+        &lt;p align=&#34;center&#34;&gt;
+            &lt;img style=&#34;max-width: 500px;&#34; src=&#34;../assets/entry3/screenshot3.png&#34;&gt;
+        &lt;/p&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;p&gt;Non per vantarmi, ma non le ho fatte io. Vedete quel &lt;em&gt;People&lt;/em&gt;? Ecco, non include me. Io lo so benissimo cosa vuol dire quando ti mandano una melanzana. E &lt;em&gt;non&lt;/em&gt; è per proporti di fare una ratatouille (l&amp;rsquo;ho imparato a mie spese). Quella si chiede così: 🐀🗼.&lt;/p&gt;
+&lt;p&gt;La domanda due invece mi stupisce di più. Penso che se la chiedi, allora hai l&amp;rsquo;&lt;a href=&#34;https://it.wikipedia.org/wiki/Alessitimia&#34;&gt;alessitimia&lt;/a&gt;. Malattia scoperta nel 1954, per caso, dalla Dottoressa Alessini, che ne soffriva.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;[Lucia - la più giovane e spensierata infermiera del suo reparto]&lt;/b&gt;: 😃 &amp;ldquo;🎵 upside insainout&amp;hellip; nanana vida locaaa 🎵&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Dott. Alessini - rivolgendosi a Lucia, la più giovane infermira del suo reparto]&lt;/b&gt;: Lucia! &lt;br&gt;
+&lt;b&gt;[Lucia - che, interpellata, si volta mentre si leva gli AirPods]&lt;/b&gt;: 🙂 &lt;br&gt;
+&lt;b&gt;[Dott. Alessini - ironica, ma Lucia ancora non lo sa]&lt;/b&gt;: Lucia, complimenti. &lt;br&gt;
+&lt;b&gt;[Lucia]&lt;/b&gt;: 😍 &lt;br&gt;
+&lt;b&gt;[Dott.ssa Alessini - ora seria]&lt;/b&gt;: Hai davvero fatto un lavoro di merda oggi col signor Cavalli. &lt;br&gt;
+&lt;b&gt;[Lucia]&lt;/b&gt;: 😩 &lt;br&gt;
+&lt;b&gt;[Dott.ssa Alessini]&lt;/b&gt;: Sì, dico davvero. Ok che sono le 5 del mattino e il tuo turno è iniziato alle 4 del mattino, di ieri. Ok che il signor Cavalli ha 87 anni. Ok che gli avevi appena cambiato il pannolone. Ok che ha una punta di Alzheimer&amp;rsquo;s &amp;ldquo;non diagnosticata, ma dai&amp;hellip; ce l&amp;rsquo;ha, io sarò anche una dermatologa, e va bene. Ma se lo vedo io!&amp;rdquo;. Ok che avevi appena fatto la signora Messina, che era caduta dalle scale mentre portava la pentola di ragù &amp;ldquo;che poi io dico, ma dove cazzo vivi? La cucina al piano di sopra, e la sala da pranzo al piano di sotto?&amp;rdquo; ed aveva contemporaneamente ustioni di terzo grado e l&amp;rsquo;anca destra fratturata. E lì ammetto che sei stata abbastanza brava. &lt;br&gt;
+&lt;b&gt;[Lucia - che spera che la ramanzina sia finita]&lt;/b&gt;: 😥 &lt;br&gt;
+&lt;b&gt;[Dott.ssa Alessini]&lt;/b&gt;: Ok che sei rimasta l&amp;rsquo;ultima infermiera, tutte le altre si sono licenziate &amp;ldquo;divanare&amp;rdquo;. E ci tocca far fare le cose agli infermieri. Hai mai visto un maschio utile a soccorrere qualcuno malato? Tutti ipocondriaci quelli. Vedono una goccia di sangue e svengono. Ed ok anche che tutta &amp;lsquo;sta cosa del turno da 24 ore la stai facendo per 800 € al mese &amp;ldquo;e ringrazia, bambina mia&amp;rdquo;. &lt;br&gt;
+&lt;b&gt;[Lucia]&lt;/b&gt;: 😭 &lt;br&gt;
+&lt;b&gt;[Dott.ssa Alessini]&lt;/b&gt;: Ma ti ho detto di &lt;strong&gt;LEVARE&lt;/strong&gt; il cerotto al signor Cavalli! &lt;br&gt;
+&lt;b&gt;[Lucia - ora singhiozzando]&lt;/b&gt;: E&amp;hellip; e&amp;hellip; io l&amp;rsquo;ho fatto dottoressa 😭 &lt;br&gt;
+&lt;b&gt;[Dott.ssa Alessini]&lt;/b&gt;: E ce ne siamo accorti tutti! Hai sentito che &amp;lsquo;AHIA!&amp;rsquo; ha detto? &lt;br&gt;
+&lt;b&gt;[Sig. Cavalli - dalla stanza accanto]&lt;/b&gt;: Comandante?! Comandante! Per di là! Le ho sentite bisbigliare!! &lt;br&gt;
+&lt;b&gt;[Lucia]&lt;/b&gt;: 😪 &lt;br&gt;
+&lt;b&gt;[Dott.ssa Piera Alessini - compiaciuta e meditabonda]&lt;/b&gt;: &amp;ldquo;Quella ragazza è incredibile. Posso dirle tutto e non si scompone mai. Ottimo lavoro Piera! Soft skills ne abbiamo?!?&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Lucia - asciugandosi le lacrime]&lt;/b&gt;: 🚶🏽‍♀️ va bene dottoressa. Non accadrà più. Io strapperò meglio i cerotti, ma lei è MALATA!!&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;E a chi danno il nome della scoperta medica? Ecco, appunto. Hai voglia a dire &amp;rsquo;la meritocrazia nella scienza&amp;rsquo;.&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alcune precisazioni che, a detta di tutti, potevo risparmiarmi&lt;/strong&gt; \&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Le parole &amp;lsquo;calamaro&amp;rsquo; e &amp;lsquo;calamaio&amp;rsquo; sono sospettosamente simili. Comunque ha un suo senso. Alla fine il calamaro è tipo la versione animale del calamaio. Un po&amp;rsquo; come se avessimo anche il &lt;a href=&#34;../assets/entry3/animal1.jpeg&#34;&gt;&amp;lsquo;martellaro&amp;rsquo;&lt;/a&gt; o il &lt;a href=&#34;../assets/entry3/animal2.jpeg&#34;&gt;&amp;lsquo;cane&amp;rsquo;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Non avevo mai sento la parola &amp;lsquo;piaggeria&amp;rsquo;, ora la sento ovunque e da chiunque. Sembra proprio che io sia stato l&amp;rsquo;ultimo a scoprirne esistenza e significato. Me la stavate nascondendo? Non credo ai complotti (di solito), ma allego un grafico che &lt;em&gt;QUALCHE DUBBIO&lt;/em&gt;, &lt;em&gt;ONESTAMENTE&lt;/em&gt; lo solleva.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://ssl.gstatic.com/trends_nrtr/2790_RC04/embed_loader.js&#34;&gt;&lt;/script&gt; &lt;script type=&#34;text/javascript&#34;&gt; trends.embed.renderExploreWidget(&#34;TIMESERIES&#34;, {&#34;comparisonItem&#34;:[{&#34;keyword&#34;:&#34;piaggeria&#34;,&#34;geo&#34;:&#34;IT&#34;,&#34;time&#34;:&#34;2004-01-01 2022-01-13&#34;}],&#34;category&#34;:0,&#34;property&#34;:&#34;&#34;}, {&#34;exploreQuery&#34;:&#34;date=all&amp;geo=IT&amp;q=piaggeria&#34;,&#34;guestPath&#34;:&#34;https://trends.google.com:443/trends/embed/&#34;}); &lt;/script&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;FOMO e HOMO sono a &lt;a href=&#34;https://en.wikipedia.org/wiki/Hamming_distance&#34;&gt;distanza di Hamming&lt;/a&gt; 1.&lt;/li&gt;
+&lt;li&gt;Ah quasi dimenticavo. Non rispondo alla penultima domanda della pregiata collezione di cui sopra, ma all&amp;rsquo;ultima sì. &lt;br&gt;
+&amp;ldquo;Ti capisco, caro avventore della rete. Anche io ho un calcolatore talmente datato che la &lt;a href=&#34;https://futurama.fandom.com/wiki/Carol_Miller&#34;&gt;cara Apple&lt;/a&gt; ha smesso di rilasciare aggiornamenti.&amp;rdquo;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Per oggi basta così.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Entry 2 | Il blocco emotivo</title>
+      <link>https://passatelly.github.io/entry-2-il-blocco-emotivo/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://passatelly.github.io/entry-2-il-blocco-emotivo/</guid>
+      <description>&lt;p&gt;&lt;b&gt;[Segretariə]&lt;/b&gt;: Poletti? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: &amp;ldquo;🎵 upside insainout&amp;hellip; nanana vida locaaa 🎵&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Segretariə]&lt;/b&gt;: Oscar Poletti? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: &amp;ldquo;🎵 push an push you out&amp;hellip; nanana vida loccaa 🎵&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Signora Carla - con un colpetto sulla spalla]&lt;/b&gt;: Mi scusi sa?! Ma mi sa che ce l&amp;rsquo;hanno proprio con lei. &lt;br&gt;
+&lt;b&gt;[Segretariə]&lt;/b&gt;: Ma il signor Polet&amp;hellip; &lt;br&gt;
+&lt;b&gt;[Oscar - si leva gli AirPods]&lt;/b&gt;: Eccomi! Eccomi! Sì, ci sono. Mi scusi. &lt;br&gt;
+&lt;b&gt;[Segretariə]&lt;/b&gt;: Prego, il Dottor Coppola la sta aspettando. Prenda il corridoio arancione. &lt;br&gt;
+&lt;b&gt;[Oscar - seguendo con lo sguardo]&lt;/b&gt;: Aha&amp;hellip; sì&amp;hellip; ok&amp;hellip; &lt;br&gt;
+&lt;b&gt;[Segretariə]&lt;/b&gt;: Lo vede? Dietro la kentia. &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Sì sì. Corridoio arancione, lo vedo. &lt;br&gt;
+&lt;b&gt;[Segretariə]&lt;/b&gt;: Ecco, seconda porta blu a sinistra. &lt;br&gt;
+&lt;b&gt;[Oscar - con un cenno della mano]&lt;/b&gt;: Va bene, grazie. Arrivederci. &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: 🚶 &amp;ldquo;Corridoio arancione, oook. Non la prima, la seconda, eccola. Dott. Coppola - Psicologo Psicoterapeuta. È lui.&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Porta - bussata da Oscar]&lt;/b&gt;: TOC TOC TOC! &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: &amp;ldquo;Ecco, tre volte ho bussato. Ora penserà che sono pazzo. Ma chi bussa tre volte?! Da che mondo è mondo tutti bussano solo due volte.&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Dott. Coppola]&lt;/b&gt;: &amp;ldquo;Avanti!&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: &amp;ldquo;E io tre. E questo è pure uno Psicocoso. Lo sapevo che non dovevo venirci qui. Mannaggia a te Marianna. Anzi scemo io che alla fine ti do sempre retta&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Dott. Coppola]&lt;/b&gt;: &amp;ldquo;Ah no! L&amp;rsquo;ho solo pensato&amp;hellip;&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Dott. Coppola - questa volta ad alta voce]&lt;/b&gt;: AVANTI! &lt;br&gt;
+&lt;b&gt;[Oscar - spinge timidamente la porta]&lt;/b&gt;: Buongiorno Dottor Coppola. &lt;br&gt;
+&lt;b&gt;[Dott. Coppola - senza staccare gli occhi da un foglio giallo sulla scrivania]&lt;/b&gt;: Silvano! &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Ehm, no, io veramente sarei Oscar Poletti. &lt;br&gt;
+&lt;b&gt;[Dott. Coppola - questa volta con un cerimonioso cenno dell&amp;rsquo;avambraccio]&lt;/b&gt;: Ma certo che lei è Oscar! Silvano sono io. Mi chiami pure Silvano. Dottor Coppola mi chiamano di solito quando vogliono vendermi qualcosa AHAHAH 🤣 &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: &amp;ldquo;Eccallà. Dentro da due minuti, e ho già boomerato. Questo avrà 5 o 6 anni meno di me, e ora pensa di avere a che fare con la version maschio di Rita Levi Montalcini&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Oscar - che in realtà avrà quindici anni in meno del dottore]&lt;/b&gt;: &amp;ldquo;Eccallà. Silvano. Elfo per gli amici. Il boomer che ride pure inclinando la testa di lato che è una roba che odio.&amp;rdquo; Molto piacere &lt;em&gt;Silvano&lt;/em&gt;, Oscar. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Possiamo darci del tu? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Certamente, &lt;em&gt;Silvano&lt;/em&gt;. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Prego, accomodati sulla chaise longue. &lt;br&gt;
+&lt;b&gt;[Oscar - appropinquandosi all&amp;rsquo;insolito mobilio]&lt;/b&gt;: &amp;ldquo;No va beh non ci credooo! La chaise longue! Ma cos&amp;rsquo;è un cinepanettone?&amp;rdquo; Eccomi&amp;hellip; grazie. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: &amp;ldquo;È a disagio. Lo percepisco. Mannaggia allə Segretariə che mi ha consigliato &amp;lsquo;sta cazzo di chaise longue. &lt;em&gt;Fa professionale&lt;/em&gt; dice. &lt;em&gt;Tutti gli psicologi la usano&lt;/em&gt;. A me sembra una cafonata. Dopo vado da ikea e questa poi la mettiamo in un angolo.&amp;rdquo; Come stai Oscar? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: &amp;ldquo;Ok, ci diamo del tu, me lo devo ricordare&amp;rdquo; Fisicamente bene dottor&amp;hellip; &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Silvano! &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: &lt;em&gt;Silvano&lt;/em&gt;. Fisicamente mi sento bene Silvano, diciamo che non sono più in forma come qualche anno fa. Sono tempi difficili. I dipiciemme, il lockdown, le mascherine, sì insomma mi muovo meno e sono un po&amp;rsquo; teso. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Non ti preoccupare, è normalissimo. Non sai quanti depressi vedo per &amp;lsquo;sta pandemia! HAHAH &lt;br&gt;
+&lt;b&gt;[Oscar - visibilmente teso]&lt;/b&gt;: &amp;ldquo;&lt;em&gt;Depresso&lt;/em&gt;? Non volevo sentire &amp;lsquo;sta parola al minuto 1&amp;rdquo; E poi sai, &lt;em&gt;Silvano&lt;/em&gt; &lt;br&gt;
+&lt;b&gt;[Oscar - attende un attimo per vedere la reazione del dottore, ora che gli da del tu anche lui]&lt;/b&gt;: &amp;hellip; &lt;br&gt;
+&lt;b&gt;[Silvano - con un sorriso di circostanza]&lt;/b&gt;: &amp;ldquo;Uhm&amp;hellip; mi sa che questo non lo dovevo dire&amp;rdquo; 😬 &lt;br&gt;
+&lt;b&gt;[Oscar - a cui pare tutto ok]&lt;/b&gt;: ci sono alcune cose, che riuscivo a fare fino a qualche mese fa. Anzi, non voglio vantarmi ma, erano cose che mi riuscivano anche abbastanza bene. Ed ora proprio non riesco più. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Capisco, prendiamoci del tempo per parlarne assieme. &amp;ldquo;Bella sta frase eh?! Fa effetto. L&amp;rsquo;ho sentita una volta in un programma in seconda serata. Una roba tipo Marzullo, boh. Ora è tipo la mia punchline. La uso sempre e non delude mai.&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Oscar - accennando un sorriso]&lt;/b&gt;: &amp;ldquo;Beh&amp;hellip; messa giù così. In effetti mi sento a mio agio. Alla fine &amp;lsquo;sto Silvanello mi sembra uno amichevole. Mi sento a mio agio&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: E dimmi Oscar, in quale ambito della tua sfera personale senti queste&amp;hellip; come possiamo chiamarle&amp;hellip; tensioni? Indecisioni? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Ecco sì, &lt;em&gt;Silvano&lt;/em&gt; prima era proprio un dono. Una cosa innata. Senza neanche pensarci, mi riusciva e basta. E potevo farlo per ore. Sì insomma del mio gruppo ero sicuramente quello che riusciva più a lungo, e meglio. &lt;br&gt;
+&lt;b&gt;[Silvano - visibilmente confuso]&lt;/b&gt;: Ok, parlami di questo gruppo. Da quando non riesci più a&amp;hellip; fare questa cosa, ti senti emarginato? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Beh oddio, emarginato forse no, però ecco un po&amp;rsquo; messo in disparte sì ecco. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Questo tuo gruppo, non vuole più fare &lt;em&gt;queste cose&lt;/em&gt; con te? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: No, no. Continuiamo a vederci sempre tutti i giovedì sera. È che, diciamo, se prima mi sentivo proprio l&amp;rsquo;occhio di bue addosso. I riflettori puntati. Ecco ora molto meno. Mi sento in disparte. Tipo quei bambini che alla recita di Natale interpretano l&amp;rsquo;albero accanto alla capanna. Prima magari non ero Gesù bambino, ma l&amp;rsquo;asinello almeno sì ecco. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Capisco. Beh, certamente l&amp;rsquo;accettazione di noi stessi passa prima di tutto attraverso gli occhi degli altri. È assolutamente normale cercare l&amp;rsquo;approvazione dei nostri &lt;em&gt;peer&lt;/em&gt;. &amp;ldquo;E taaaac! Scatta la paroletta in inglese. Così, con nonchalance. Che fa stile. Che fa studiato. Che fa &lt;em&gt;quella-targa-sulla-porta-mica-la-mettono-a-tutti&lt;/em&gt;. Eddai che &amp;lsquo;sto boomer poi tanto boomer non è. E grazie mamma e papà che m&amp;rsquo;hanno pagato l&amp;rsquo;Erasmus [una delle primissime edizioni NdR] a Reading&amp;rdquo;. &lt;br&gt;
+&lt;b&gt;[Silvano - visibilmente soddisfatto]&lt;/b&gt;: Oscar, parlami del tuo gruppo. Che tipo di gruppo è? &amp;ldquo;Oh io ancora non ho capito che cazzo fa questo. Vuoi vedere che è una di quelle zozzerie che fanno ora i ragazzini col cellulare?!&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Oscar - che non si aspettava certo di essere frainteso]&lt;/b&gt;: In che senso scusa? È un &lt;em&gt;gruppo&lt;/em&gt;! &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Un gruppo&amp;hellip; di &lt;em&gt;lettura&lt;/em&gt;? &amp;ldquo;Va beh, diamogli una chance. Così lui dice &lt;em&gt;lettura&lt;/em&gt;, io dico &lt;em&gt;lettura&lt;/em&gt;, entrambi abbiamo capito che è una metafora per chissà quale immonderia, e andiamo avanti.&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: No, &lt;em&gt;Silvano&lt;/em&gt;. È un &lt;em&gt;gruppo&lt;/em&gt;&amp;hellip; musicale. Suono in una band. &lt;br&gt;
+&lt;b&gt;[Silvano - visibilmebte sollevato]&lt;/b&gt;: Aaaaah ma certo! Un &lt;em&gt;gruppo&lt;/em&gt;! &amp;ldquo;Fiuuuu&amp;hellip;&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Sì, esatto. Ci chiamiamo CappyBarra, proviamo in saletta tutti i giovedì sera, appunto. Facciamo serate in giro per la città, magari le è anche capitato di passare per un locale dove ci siamo esibiti. &amp;ldquo;Oh cazzo ho usato il lei, eh proprio il tu qua non mi viene.&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Silvano - scocciato e falsamente interessato]&lt;/b&gt;: &amp;ldquo;Niente da fare, ha usato il lei. Non ho capito una cosetta, e già si è chiuso a riccio. E va beh, faccio finta di non essermene accorto&amp;rdquo; Tipo, tipo? Fammi un nome. &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Mah ad esempio abbiamo suonato al Caffè della Luna in piazza Tramagli&amp;hellip; &lt;br&gt;
+&lt;b&gt;[Silvano - mentendo spudoratamente]&lt;/b&gt;: Certo, certo, conosco. &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: E poi anche al San Giacomo Jazz Festival. Evento fantastico tra l&amp;rsquo;altro, se non ci sei mai stato, te lo consiglio. Dovrei avere una locandina per la prossima edizione nello zaino forse. &lt;br&gt;
+&lt;b&gt;[Silvano - che l&amp;rsquo;unico jazz che ascolta è quello nella sala d&amp;rsquo;attesa del suo dentista]&lt;/b&gt;: Sicuramente! Me lo segno. E dimmi Oscar, questo blocco emotivo che hai, in che maniera è legato alla musica? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Dunque, ora non voglio andare troppo sul tecnico. Però diciamo che da qualche mese a questa parte, o suono, o canto. Le due cose assieme non mi riescono più. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Capisco, deve essere molto dura. Sei tu il frontman dei&amp;hellip; ca&amp;hellip; piobara ? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: CappyBarra. Beh diciamo che noi siamo un po&amp;rsquo; alternativi. Cantiamo e suoniamo tutti. &lt;br&gt;
+&lt;b&gt;[Silvano - che cerca di fare buona impressione]&lt;/b&gt;: Tipo i Bitols! &amp;ldquo;Fortuna che lo sto &lt;em&gt;dicendo&lt;/em&gt; e non &lt;em&gt;scrivendo&lt;/em&gt;, non mi ricordo mai lo spelling.&amp;rdquo; A proposito, ma Get Back? L&amp;rsquo;hai visto? Un musicista come te&amp;hellip; &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Sì, oddio avevo fatto Disney+ apposta, non m&amp;rsquo;ha fatto impazzire. Figo eh vedere loro nel &lt;em&gt;quotidiano&lt;/em&gt;, diciamo. Però ammazza, otto ore&amp;hellip; Un sacco di tempi morti. Non so, potevano forse tagliare anche di più. &lt;br&gt;
+&lt;b&gt;[Silvano - che ci aveva provato]&lt;/b&gt;: Ah sì certo certo, lo penso anche io. Molto interessante ma anche molto lento. &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Sì. Va beh, tornando a noi. Non capisco, la tecnica ce l&amp;rsquo;ho. Quando suono azzecco sempre tutte le note. Il tempo lo tengo. Quando canto sono intonato, o almeno così dice la &lt;em&gt;vocal coach&lt;/em&gt;. Ma quando cerco di fare le due cose assieme, ho come un blocco. È come se a quel punto non fossi più in grado di produrre alcun suono. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Quindi mi pare di capire che il tuo sia più un blocco emotivo. Ne hai parlato con un maestro di musica? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Sì ma guarda, io ho fatto il conservatorio. Musicisti e maestri ne conosco tanti. Ne ho parlato anche con il mio mentore. Ma niente. Senza falsa modestia, pochi sono dotati come lo ero io. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: 🙄 &amp;ldquo;È arrivato Neil Armstrong!&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Oscar - che si rende conto di aver esagerato]&lt;/b&gt;: O come lo sono gli altri &lt;em&gt;Cappiers&lt;/em&gt;, ovviamente. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Allora Oscar, facciamo così. Il nostro tempo assieme sta finendo, ma ti do un compito. Oddio &lt;em&gt;compito&lt;/em&gt; suona male, non siamo a scuola. Diciamo un &lt;em&gt;consiglio&lt;/em&gt;. &lt;br&gt;
+&lt;b&gt;[Oscar - per la prima volta chiaramente interessato]&lt;/b&gt;: Dimmi. &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Rilassati. Fai partire il tuo disco preferito, prendi carta e penna, dividi a metà il foglio e scrivi a destra tutte le emozioni belle che la musica ti dona, mentre a sinistra tutte quelle brutte. &lt;br&gt;
+&lt;b&gt;[Oscar - che cerca con gli occhi qualcosa per prendere appunti]&lt;/b&gt;: Ok aspè scusa, hai detto a destra le brutte a sinistr&amp;hellip; o il contrario? È importante? &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: No no, a sinistra metti le cose belle&amp;hellip; va beh insomma, come vuoi non importa. &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Ah niente perché pensavo, sai, l&amp;rsquo;emisfero di destra, razionale, quello di sinistra, emotivo&amp;hellip; non c&amp;rsquo;entra? &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Ma no, ma no! Io sono uno psicologo psicoterapeuta. Mica uno psichiatra! &amp;ldquo;Ma che ne so io di cosa c&amp;rsquo;è a destra o sinistra? Mi pare che una volta l&amp;rsquo;avevo letto su Focus, ma boh.&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Oscar - sorride imbarazzato]&lt;/b&gt;: &amp;ldquo;Madò si scalda adesso, avevo solo letto un articolo di Focus e volevo fare bella impressione.&amp;rdquo; Ok va bene. Grazie Silvano. Alla prossima. &lt;br&gt;
+&lt;b&gt;[Silvano - sorride pentito di essersi alterato]&lt;/b&gt;: E di che? Grazie a te Oscar e piacere di averti conosciuto. Ci vediamo martedì prossimo, stessa ora. &lt;br&gt;
+&lt;b&gt;[Oscar - si alza, prende il cappotto, e va verso la porta]&lt;/b&gt;: Vaaa bene, grazie ancora dott&amp;hellip; &lt;em&gt;Silvano&lt;/em&gt;. Buona giornata! &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: 🚶 &amp;ldquo;Va beh dai, ci torno, sta cosa del quadernetto diviso a metà è pure carina&amp;hellip;&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Silvano - quando Oscar è ormai quasi del tutto uscito]&lt;/b&gt;: Oscar! &lt;br&gt;
+&lt;b&gt;[Oscar - facendo capolino]&lt;/b&gt;: Sì? &lt;br&gt;
+&lt;b&gt;[Silvano]&lt;/b&gt;: Scusa Oscar ma, una curiosità. Che strumento suoni? &lt;br&gt;
+&lt;b&gt;[Oscar]&lt;/b&gt;: Il sax! &lt;br&gt;
+&lt;b&gt;[Oscar - chiude la porta, e fa cinque passi]&lt;/b&gt;: 🚶 &amp;ldquo;Ma che scemo! Avevo pure la locandina nello zaino, aspè che già che sono qui gliela porto&amp;rdquo; &lt;br&gt;
+&lt;b&gt;[Porta - bussata da Oscar, che ora ha imparato]&lt;/b&gt;: TOC TOC! &lt;br&gt;
+&lt;b&gt;[Silvano - ancora incredulo]&lt;/b&gt;: Sì? &lt;br&gt;
+&lt;b&gt;[Oscar - porgendo velocemente un foglietto arancione stropicciato]&lt;/b&gt;: Silvano guarda scusa avevo la locandina del Jazz Festival. Sai quello a San Giacomo? Te la lascio, magari passi da quelle parti. &lt;br&gt;
+&lt;b&gt;[Silvano - con lo sguardo fisso sul foglietto arancione]&lt;/b&gt;: Certo, volentieri. &lt;br&gt;
+&lt;b&gt;[Il foglietto arancione stropicciato]&lt;/b&gt;:&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img width=&#34;540&#34; height=&#34;305&#34; src=&#34;../assets/entry2/locandina.png&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Pare che tengano che io dica che la palmetta e le note provengono da &lt;a href=&#34;https://www.flaticon.com/&#34;&gt;flaticom.com&lt;/a&gt;. E io lo dico, che mi costa?!&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Entry 1 | Pilota</title>
+      <link>https://passatelly.github.io/entry-1-pilota/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://passatelly.github.io/entry-1-pilota/</guid>
+      <description>&lt;p&gt;Io nella vita scrivo software, e &lt;em&gt;basta&lt;/em&gt;. Cioè, &lt;em&gt;basta&lt;/em&gt; nel senso che non scrivo altro, non &lt;em&gt;basta&lt;/em&gt; nel senso che non faccio altro nella vita se non
+scrivere software. Vado anche in bici tipo. Non spesso in realtà. Vado ogni tanto, non proprio come sport-sport. E comunque il software di solito si scrive in
+inglese, e quindi ogni volta mi chiedo che lingua da usare quando scrivo cose che non sono software. Ma tanto, come ho appena detto, non scrivo mai
+altro. Quindi il problema si pone poco. Va beh, quelle rare volte in cui lo faccio uso un mix di inglese/italiano, che comunque fila bene, nella mia testa. Ma neanche troppo.
+Tant&amp;rsquo;è che quando rileggo dopo un po&amp;rsquo;, alla fine non piace più nemmeno a me. Ma ci provo lo stesso.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Perché Passatelly?&lt;/strong&gt; &lt;br&gt;
+Il motivo principale è che tanto, diciamoci la verità. Qualsiasi cosa io avessi scelto, ad un certo punto me ne sarei pentito.
+E quindi alla fine, perchè pensarci troppo? Ho preso una cosa che A) mi piace e B) si realizza usando a sproposito uno strumento
+nato per un altro scopo (lo schiacciapatate). E ci ho messo una &lt;code&gt;y&lt;/code&gt; alla fine. Che fa giovane. O almeno così dicono i miei trapper preferiti.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Perché quel logo?&lt;/strong&gt; &lt;br&gt;
+Fare i loghi costa. Estro, tempo e fatica (o denaro). Ed io rispetto tantissimo chi fa i loghi per mestiere. E quindi ho scelto di non usare
+uno di quei tool tipo: &lt;a href=&#34;https://bit.ly/3tk8tn8&#34;&gt;https://crea-il-tuo-logo-gratis-in-fretta-oh-tranquillo-viene-benissimo.now&lt;/a&gt;.
+Non mi sbilancio ulteriormente. Il logo è &lt;a href=&#34;https://passatelly.github.io/logo.png&#34;&gt;questo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cosa troverò qui?&lt;/strong&gt; &lt;br&gt;
+Ogni tanto mi vengono in mente cose che fanno mezzo ridere, almeno a me. Ed ogni volta penso &lt;em&gt;&amp;ldquo;aaah&amp;hellip; me la dovrei segnare questa&amp;rdquo;&lt;/em&gt;. Poi non lo faccio
+e me la scordo. E niente adesso mi sono creato uno spazio per scrivere queste cose. Vediamo se effettivamente ora che non ho più scuse lo farò realmente.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
