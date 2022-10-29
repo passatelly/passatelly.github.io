@@ -13,7 +13,7 @@ cosa sembra falsa modestia.
 <figure>
     <a href="https://passatelly.github.io/">
         <p align="center">
-            <img style="max-width: 500;" src="../assets/entry3/screenshot1.png">
+            <img style="max-width: 500;" src="/entry3/screenshot1.png">
         </p>
     </a>
 </figure>
@@ -30,7 +30,7 @@ Quindi, onde evitare problemi di questa natura. Ecco a te.
 <figure>
     <a href="https://jekyllrb.com/docs/includes/#including-files-relative-to-another-file">
         <p align="center">
-            <img style="max-width: 500;" src="../assets/entry3/screenshot2.png">
+            <img style="max-width: 500;" src="/entry3/screenshot2.png">
         </p>
     </a>
 </figure>
@@ -43,7 +43,7 @@ Mentre cercavo questa emoji (😬), Google mi ha suggerito le seguenti domande.
 <figure>
     <a href="https://emojipedia.org/grimacing-face/">
         <p align="center">
-            <img style="max-width: 500px;" src="../assets/entry3/screenshot3.png">
+            <img style="max-width: 500px;" src="/entry3/screenshot3.png">
         </p>
     </a>
 </figure>

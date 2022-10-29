@@ -97,7 +97,7 @@ draft: false
 <b>\[Il foglietto arancione stropicciato\]</b>:
 
 <p align="center">
-  <img width="540" height="305" src="../assets/entry2/locandina.png">
+  <img width="540" height="305" src="/entry2/locandina.png">
 </p>
 
 <small>Pare che tengano che io dica che la palmetta e le note provengono da [flaticom.com](https://www.flaticon.com/). E io lo dico, che mi costa?!</small>
