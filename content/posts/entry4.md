@@ -1,7 +1,7 @@
 ---
 title: "Entry4 | Siamo alle solite"
 date: 2022-10-29T14:23:49+02:00
-draft: true
+draft: false
 ---
 
 È un po' la storia della mia vita, parto a bomba su qualcosa e poi dopo pochissimo mi interrompo. Come possibile notare dalla data di questo post, è passato un sacco dall'ultima entry. La colpa è mia, avevo iniziato un progetto di scrittura molto lungo. Continuo a pensare che l'idea fosse divertente, solo che la prima pubblicazione sarebbe potuta arrivare dopo troppo tempo, e quindi ho desistito. Ho cancellato anche tutti i file ad esso relativi, erano un sacco (tipo tre).
